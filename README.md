@@ -31,15 +31,24 @@ Teaching Assistant (TA): Zichuan Wang, M.S., Institute of Automation CAS, wangzi
 # 🥇 LeaderBoard
 ## Deepfake Detection
 ### Test1 Results
-
+**Week1：**
+|Team | Acc | AUC |
+|:-----:|:----:|:------:|
+|imecas|0.9020|0.9412|
 
 ### Test2 Results
-
+|Team | AUC | Time |
+|:-----:|:----:|:----:|
 
 
 
 
 ## Deepfake Generation
+**Week1：**
+|Team | SSIM | Noise | ID_score | AntiDet_score | Overall_score |
+|:-----:|:----:|:------:|:----:|:------:|:----:|
+|Hardworking111|0.9277|-0.1002|0.7350|0.6336|2.1961|
+
 
 
 
