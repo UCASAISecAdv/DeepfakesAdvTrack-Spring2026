@@ -37,7 +37,7 @@ Teaching Assistant (TA): Zichuan Wang, M.S., Institute of Automation CAS, wangzi
 |imecas|0.9020|0.9412|
 
 ### Test2 Results
-|Team | AUC | Time |
+|Team | Acc | AUC |
 |:-----:|:----:|:----:|
 
 
