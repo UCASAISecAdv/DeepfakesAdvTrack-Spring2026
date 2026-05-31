@@ -44,6 +44,7 @@ Teaching Assistant (TA): Zichuan Wang, M.S., Institute of Automation CAS, wangzi
 |TeamKurfürst|0.9705|0.9989|
 |DuiWuMingCheng| 0.9315| 0.94913|
 |imecas|0.9020|0.9412|
+|深度伪造对抗队| 0.546500| 0.924526|
 |Hardworking111| 0.2313| 0.7904|
 
 ### Test2 Results
