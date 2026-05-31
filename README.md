@@ -37,6 +37,13 @@ Teaching Assistant (TA): Zichuan Wang, M.S., Institute of Automation CAS, wangzi
 |imecas|0.9020|0.9412|
 |TeamKurfürst|0.9705|0.9989|
 
+**Week2：**
+|Team | Acc | AUC |
+|:-----:|:----:|:------:|
+|imecas|0.9020|0.9412|
+|DuiWuMingCheng| 0.9315| 0.94913|
+|Hardworking111| 0.2313| 0.7904|
+
 ### Test2 Results
 |Team | Acc | AUC |
 |:-----:|:----:|:----:|
@@ -49,6 +56,11 @@ Teaching Assistant (TA): Zichuan Wang, M.S., Institute of Automation CAS, wangzi
 |Team | SSIM | Noise | ID_score | AntiDet_score | Overall_score |
 |:-----:|:----:|:------:|:----:|:------:|:----:|
 |Hardworking111|0.9277|-0.1002|0.7350|0.6336|2.1961|
+
+**Week2：**
+|Team | SSIM | Noise | ID_score | AntiDet_score | Overall_score |
+|:-----:|:----:|:------:|:----:|:------:|:----:|
+|Hardworking111|0.9329|-0.2078|0.7314|0.5825|2.0390|
 
 
 
