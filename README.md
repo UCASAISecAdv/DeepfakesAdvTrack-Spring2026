@@ -64,6 +64,7 @@ Teaching Assistant (TA): Zichuan Wang, M.S., Institute of Automation CAS, wangzi
 |Team | SSIM | Noise | ID_score | AntiDet_score | Overall_score |
 |:-----:|:----:|:------:|:----:|:------:|:----:|
 |Hardworking111|0.9329|-0.2078|0.7314|0.5825|2.0390|
+|深度伪造对抗队|0.9345|-0.0868|0.7319|0.6599|2.2395|
 
 
 
