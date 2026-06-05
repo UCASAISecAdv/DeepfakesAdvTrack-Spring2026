@@ -48,7 +48,7 @@ Teaching Assistant (TA): Zichuan Wang, M.S., Institute of Automation CAS, wangzi
 |深度伪造对抗队| 0.5465| 0.9245|
 
 ### Test2 Results
-|Team | Acc | AUC |
+|Team | Acc@0.5 | AUC |
 |:-----:|:----:|:----:|
 |imecas|0.8380|0.9203|
 |Hardworking111| 0.7265|0.9800|
@@ -70,10 +70,10 @@ Teaching Assistant (TA): Zichuan Wang, M.S., Institute of Automation CAS, wangzi
 |深度伪造对抗队|0.9345|-0.0868|0.7319|0.6599|2.2395|
 
 ### Test2 Results
-|Team | Anti_TeamKurfürst_score | Anti_Hardworking111_score | Anti_DuiWuMingCheng_score | Anti_imecas_score | Anti_深度伪造对抗队_score | Overall_score |
+|Team | AntiDet_score1 | AntiDet_score2 | AntiDet_score3 | AntiDet_score4 | AntiDet_score5 | Overall_score |
 |:-----:|:----:|:------:|:----:|:------:|:----:|:----:|
 |Hardworking111|  | 0.0328 |  | 0.1594 |  |  |
-|深度伪造对抗队|  |  | 0.0471 | 0.1595 |  |  |
+|深度伪造对抗队|  | 0.0471 |  | 0.1595 |  |  |
 
 
 
