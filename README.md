@@ -50,11 +50,14 @@ Teaching Assistant (TA): Zichuan Wang, M.S., Institute of Automation CAS, wangzi
 ### Test2 Results
 |Team | Acc | AUC |
 |:-----:|:----:|:----:|
+|imecas|0.8380|0.9203|
+|Hardworking111| 0.7265|0.9800|
 
 
 
 
 ## Deepfake Generation
+### Test1 Results
 **Week1：**
 |Team | SSIM | Noise | ID_score | AntiDet_score | Overall_score |
 |:-----:|:----:|:------:|:----:|:------:|:----:|
@@ -66,7 +69,11 @@ Teaching Assistant (TA): Zichuan Wang, M.S., Institute of Automation CAS, wangzi
 |Hardworking111|0.9329|-0.2078|0.7314|0.5825|2.0390|
 |深度伪造对抗队|0.9345|-0.0868|0.7319|0.6599|2.2395|
 
-
+### Test2 Results
+|Team | Anti_TeamKurfürst_score | Anti_Hardworking111_score | Anti_DuiWuMingCheng_score | Anti_imecas_score | Anti_深度伪造对抗队_score | Overall_score |
+|:-----:|:----:|:------:|:----:|:------:|:----:|:----:|
+|Hardworking111|  | 0.0328 |  | 0.1594 |  |  |
+|深度伪造对抗队|  |  | 0.0471 | 0.1595 |  |  |
 
 
 
